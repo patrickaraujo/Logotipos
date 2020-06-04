@@ -111,7 +111,7 @@
          id="tspan884"
          x="-263.83032"
          y="88.675331"
-         style="stroke-width:0.26458332">Autoria do Logotipo: Patrick Araújo</tspan></text>
+         style="stroke-width:0.26458332">Autoria do Logotipo: <a href="https://about.me/patrickaraujo" target="_blank">Patrick Araújo</a></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.50760365px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -123,6 +123,6 @@
          id="tspan888"
          x="-266.59344"
          y="129.4052"
-         style="stroke-width:0.26458332">about.me/patrickaraujo</tspan></text>
+         style="stroke-width:0.26458332"><a href="https://about.me/patrickaraujo" target="_blank">about.me/patrickaraujo</a></tspan></text>
   </g>
 </svg>
